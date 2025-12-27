@@ -1,0 +1,2 @@
+# sjzwXTQMOa
+本系统是一款基于Springboot和Vue的前后端分离二手平台管理系统，旨在实现二手商品的发布、管理、交易等核心功能。系统采用MySQL数据库，以Java为开发语言，前端集成Vue和Element-UI，后端使用Springboot和MyBatisPuls技术。它能够有效解决二手交易中的信息管理、流程监控等问题，提供用户友好的操作体验，确保二手交易的安全与便捷。
